@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hawash2
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me : 01143359055 or mail @ inthawash@hotmail.com
 
